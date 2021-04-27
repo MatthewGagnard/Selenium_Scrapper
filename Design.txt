@@ -1,0 +1,53 @@
+Matthew Gagnard
+
+Design goals Ideas / Notes / Updates
+
+Origin Idea -
+
+Create a price comparison tool and add a simple GUI
+
+Familirize with new languages tools outside of current wheelhouse
+
+	Create comparison tool with python for linux
+
+	Use amazon (and potentially additional sites if time provides)
+
+
+
+Used tools -
+
+	Python Selenium webdrivers would work well with desired goals.
+
+	ToDo - Find python GUI
+
+
+
+Change of plans - 
+
+	Trying to learn a brand new language proved to diffucult. Selenium is nice and simple, but a lack of understanding of basic python infestructure is turning
+	mountains to mole hills 
+	try with java
+
+	
+
+Java web tools:
+
+		Jaunt, HTMLUnit, JSoup, Jauntium, Selenium
+
+	Had minor success with Jaunt, Jauntium
+	
+	Moving back to Selenium. More comfrotable 
+
+Graphic tools:
+
+	JFX, Swing, NetBeans
+Swing: Simple, easy to use, very basic (and a little ugly)
+JFX: Slightly more complicated, prettier
+
+
+Selenium design:
+
+	Selenium solidified as best choice, swing used for basic GUI
+
+	Xpath usage: Easier to move Up / Down ancestors for elements. Use as much as possible
+
